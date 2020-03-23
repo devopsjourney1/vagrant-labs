@@ -1,15 +1,13 @@
-# Ansible Labs
+# Vagrant Lab - Getting Started with Vagrant
 
-These are Vagrant Labs for the youtube Channel DevOps Journey.
-
-Each folder corrasponds to a video. Follow along and let's learn Vagrant together.
+Youtube URL: 
 
 ## How to use these Labs
 1. Install Vagrant: https://www.vagrantup.com/downloads.html
 
 2. Install Oracle Virtual Box:  https://www.virtualbox.org/
 
-3. In a new Directory copy this respository:
+3. In a new Directory clone this respository:
 ``` shell
 git clone https://github.com/bradmorg/vagrant-labs.git
 ```

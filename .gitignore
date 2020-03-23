@@ -1,0 +1,5 @@
+#Ignore hidden vagrant directories
+*/.vagrant
+#Leave workspace folder empty
+workspace/*
+
