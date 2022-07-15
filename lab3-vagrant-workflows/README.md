@@ -24,7 +24,7 @@ vagrant global-status
 vagrant ssh-config
 ```
 
-5. Stop Virtual Machine
+5. Restart Virtual Machine
 ``` shell
 vagrant reload
 ```
@@ -36,5 +36,5 @@ vagrant halt
 
 7. Remove the Virtual Machine
 ``` shell
-vagrant ssh
+vagrant destroy
 ```
